@@ -1,16 +1,23 @@
-### Hi there, my name is Irfan Andika 👋
+<div id="header" align="center">
+  <img src="https://w7.pngwing.com/pngs/453/861/png-transparent-flippy-happy-tree-friends-false-alarm-flaky-cuddles-toothy-others-television-food-grass-thumbnail.png" width="100"/>
+  <div id="header" align="center">
+<img src="https://komarev.com/ghpvc/?username=irfan0535&style=flat-square&color=blue" alt=""/>
+</div>
+</div>
 
-<!--
-**Irfan0535/Irfan0535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hi there, my name is Irfan Andika 👋
+</h1>
 
-Here are some ideas to get you started:
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+Languages and Tools :
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  </div>
+</div>
+
+
